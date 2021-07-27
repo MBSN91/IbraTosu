@@ -13,7 +13,7 @@ var waypoint = new Waypoint({
       console.error(demo.error);
     }
   },
-  offset: '100%'
+  offset: '110%'
 })
 
 var waypoint = new Waypoint({
@@ -29,7 +29,7 @@ var waypoint = new Waypoint({
       console.error(demo.error);
     }
   },
-  offset: '100%'
+  offset: '110%'
 })
 
 var waypoint = new Waypoint({
@@ -45,7 +45,7 @@ var waypoint = new Waypoint({
       console.error(demo.error);
     }
   },
-  offset: '100%'
+  offset: '110%'
 })
 
 var waypoint = new Waypoint({
@@ -61,7 +61,7 @@ var waypoint = new Waypoint({
       console.error(demo.error);
     }
   },
-  offset: '100%'
+  offset: '110%'
 })
 
 
@@ -79,7 +79,7 @@ var waypoint = new Waypoint({
       console.error(demo.error);
     }
   },
-  offset: '100%'
+  offset: '110%'
 })
 
 var waypoint = new Waypoint({
@@ -95,7 +95,7 @@ var waypoint = new Waypoint({
       console.error(demo.error);
     }
   },
-  offset: '100%'
+  offset: '110%'
 })
 
 var waypoint = new Waypoint({
@@ -111,7 +111,7 @@ var waypoint = new Waypoint({
       console.error(demo.error);
     }
   },
-  offset: '100%'
+  offset: '110%'
 })
 
 var waypoint = new Waypoint({
@@ -127,7 +127,7 @@ var waypoint = new Waypoint({
       console.error(demo.error);
     }
   },
-  offset: '100%'
+  offset: '110%'
 })
 
 var waypoint = new Waypoint({
@@ -143,6 +143,6 @@ var waypoint = new Waypoint({
       console.error(demo.error);
     }
   },
-  offset: '100%'
+  offset: '110%'
 })
 
